@@ -1,0 +1,5 @@
+a)arka planı x ekseninde tekrarla.
+b)class ı kutu olan divi yukarıdan 20,sağdan30,aşağıdan40,soldan50 boşluk bırak.
+c)iç boşluğu 10
+d)bu katman sırasını en arkada göster.
+e)classı chatmenu olan divin ekran sabit kalsın sağ alt köşede genişliği 300,kenarlığı 3 verengi kırmızı
